@@ -1,0 +1,13 @@
+style
+html {
+    font-size: 22px;
+}
+
+body {
+    background-color: #ffffff;
+    color: rgb(20, 19, 19);
+}
+
+table, th, td {
+    border: 1px solid black;
+}
